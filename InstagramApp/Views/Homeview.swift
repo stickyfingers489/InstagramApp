@@ -19,7 +19,7 @@ struct Homeview: View {
                 
                 Post()
                 
-                Post(image: "dog", description: "Almost 2 years old, what big yes")
+                Post(image: "dog", description: "Almost 2 years old, this guy eats")
             }
         }
     }
