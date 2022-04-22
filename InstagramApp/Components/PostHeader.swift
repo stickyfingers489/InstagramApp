@@ -11,12 +11,12 @@ struct PostHeader: View {
     var body: some View {
         HStack {
             HStack {
-                Image("profile")
+                Image("profile9")
                     .resizable()
                     .frame(width: 30, height: 30)
                     .cornerRadius(50)
                 
-                Text("Willie Yam")
+                Text("Abbie")
                     .font(.caption)
                     .fontWeight(.bold)
             }
