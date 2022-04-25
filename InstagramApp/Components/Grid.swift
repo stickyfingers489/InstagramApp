@@ -25,6 +25,7 @@ struct Grid: View {
     }
 }
 
+// Some changes
 struct Grid_Previews: PreviewProvider {
     static var previews: some View {
         Grid()
