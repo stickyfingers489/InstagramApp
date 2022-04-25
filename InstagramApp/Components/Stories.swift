@@ -18,7 +18,7 @@ struct Stories: View {
                 Story(image: "profile5", name: "Sam")
                 Story(image: "profile6", name: "Dara")
                 Story(image: "profile7", name: "Sourany")
-                Story(image: "profile9", name: "Abby")
+                Story(image: "profile9", name: "Abbie")
             }
             .padding(.horizontal, 8)
         }
